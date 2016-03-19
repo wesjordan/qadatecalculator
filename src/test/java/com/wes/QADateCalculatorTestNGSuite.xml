@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="com.wes_QADateCalculator_jar_1.0.0">
+
+    <test name="com.wes QADateCalculatorSuite">
+        <packages>
+            <package name="com.wes"/>
+        </packages>
+    </test>
+
+</suite>
